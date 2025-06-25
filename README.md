@@ -14,7 +14,8 @@ Estoy estudiando para ser desarrolladora de software, actualmente estoy realizan
 ![Estadísticas de Odette](https://github-readme-stats.vercel.app/api?username=odettegallo&show_icons=true&theme=radical)
 
 ## 🌱 Sobre mí
-- 🔭 Actualmente trabajando en proyectos de IA
+- 🔭 Actualmente trabajando en páginas web básicas responsivas utilizando HTML, CSS y 
+JavaScript
 - 🌱 Aprendiendo nuevas tecnologías
 - 💬 Pregúntame sobre desarrollo web y Python
 
