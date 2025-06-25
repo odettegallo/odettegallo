@@ -6,7 +6,8 @@ Estoy estudiando para ser desarrolladora de software, actualmente estoy realizan
 
 ## 🚀 Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ## 📈 Estadísticas
