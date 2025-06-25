@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy Odette
 
-Estoy estudiando para ser desarrolladora de software, actualmente estoy realizando un curso de Front End Developer Trainee, apasionada por la tecnología y el aprendizaje continuo.
+Estoy estudiando para ser desarrolladora de software, actualmente realizando un curso Desarrollo de Aplicaciones Front End Trainee, apasionada por la tecnología y el aprendizaje continuo.
 
 ## 🚀 Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -17,7 +17,7 @@ Estoy estudiando para ser desarrolladora de software, actualmente estoy realizan
 - 🔭 Actualmente trabajando en páginas web básicas responsivas utilizando HTML, CSS y 
 JavaScript
 - 🌱 Aprendiendo nuevas tecnologías
-- 💬 Pregúntame sobre desarrollo web y Python
+- 💬 Pregúntame sobre desarrollo de páginas web básicas responsivas y colaboración con Git
 
 ## 📫 ¿Dónde encontrarme?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/odette-gallo-martínez-35913b271)
