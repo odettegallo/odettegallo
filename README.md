@@ -2,7 +2,7 @@
 
 # ¡Hola! 👋 Soy Odette
 
-Estoy estudiando para ser desarrolladora de software, actualmente estoy haciendo un curso de Front End Developer Trainee, apasionada por la tecnología y el aprendizaje continuo.
+Estoy estudiando para ser desarrolladora de software, actualmente estoy realizando un curso de Front End Developer Trainee, apasionada por la tecnología y el aprendizaje continuo.
 
 ## 🚀 Tecnologías y herramientas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
