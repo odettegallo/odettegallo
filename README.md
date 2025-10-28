@@ -1,4 +1,4 @@
-# ✨ Odette Gallo Martínez | 🚀 Front-End Trainee & Profesional TI
+# Odette Gallo Martínez | Front-End Trainee & Profesional TI
 
 👩‍💻 Estudiante del Bootcamp **Desarrollo de Aplicaciones Front-End Trainee**  
 📍 OTEC UNAB · Cohorte 2025
