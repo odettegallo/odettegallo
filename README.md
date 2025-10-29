@@ -31,7 +31,7 @@ Este proyecto demuestra mi capacidad para realizar un despliegue completo en pro
 
 - **Tecnologías:** Vue · Vue Router · Pinia · Firebase Hosting/Auth
 - 🔗 [Demo funcional](https://cursos-adweb-online.web.app/login)
-- 📁 [Repositorio en GitHub](ENLACE_A_TU_REPO_AQUÍ)
+- 📁 [Repositorio en GitHub](https://github.com/odettegallo/adweb-online-cursos.git)
 - 🧭 [Portafolio en GitHub Pages](ENLACE_A_TU_PORTAFOLIO_AQUÍ)
 
 ---
