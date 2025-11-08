@@ -3,7 +3,7 @@
 👩‍💻 Estudiante del Bootcamp **Desarrollo de Aplicaciones Front-End Trainee**  
 📍 OTEC UNAB · Cohorte 2025
 
-## 🚀 Ver el Portafolio en Línea
+## 🚀 Portafolio en Línea
 
 🔗 [https://odettegallo.github.io/](https://odettegallo.github.io/)
 
