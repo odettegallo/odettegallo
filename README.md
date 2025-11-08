@@ -1,17 +1,14 @@
 # Odette Gallo Martínez | Front-End Trainee & Profesional TI
 
-👩‍💻 Estudiante del Bootcamp **Desarrollo de Aplicaciones Front-End Trainee**  
-📍 OTEC UNAB · Cohorte 2025
+## Perfil Profesional
+
+Desarrolladora Front-End con dominio del ecosistema Vue (Vue.js, Nuxt.js, Pinia), especializada en la construcción de interfaces modulares, accesibles y escalables. Experiencia en servicios Back-End con Firebase y control de versiones con Git. Formación sólida en Administración Pública y certificación en Soporte TI por Google. Destaco por mi pensamiento estructurado, documentación clara y liderazgo estratégico en entornos colaborativos.
+
+---
 
 ## 🚀 Portafolio en Línea
 
 🔗 [https://odettegallo.github.io/](https://odettegallo.github.io/)
-
----
-
-## 👋 ¡Hola! Soy Odette
-
-Profesional con sólida experiencia en **Gestión Administrativa** y **Soporte en Tecnologías de la Información (TI)**, actualmente en proceso de transición hacia el **Desarrollo Front-End**. Mi enfoque combina organización, eficiencia y una fuerte orientación a la **experiencia de usuario (UX)**.
 
 ---
 
