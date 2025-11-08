@@ -8,7 +8,7 @@ Desarrolladora Front-End con dominio del ecosistema Vue (Vue.js, Nuxt.js, Pinia)
 
 ## 🚀 Portafolio en Línea
 
-🔗 [https://odettegallo.github.io/](https://odettegallo.github.io/)
+🔗 [Portafolio en GitHub Pages](https://odettegallo.github.io/)
 
 ---
 
@@ -31,9 +31,9 @@ Mi formación actual se centra en la construcción de aplicaciones web escalable
 Este proyecto demuestra mi capacidad para realizar un despliegue completo en producción, integrando Front-End, manejo de estado y servicios esenciales de back-end.
 
 - **Tecnologías:** Vue · Vue Router · Pinia · Firebase Hosting/Auth
-- 🔗 [Demo funcional](https://cursos-adweb-online.web.app/login)
-- 📁 [Repositorio en GitHub](https://github.com/odettegallo/adweb-online-cursos.git)
-- 🧭 [Portafolio en GitHub Pages](ENLACE_A_TU_PORTAFOLIO_AQUÍ)
+- 🔗 [Demo funcional](https://cripto-vue.web.app/login)
+- 📁 [Repositorio en GitHub](https://github.com/odettegallo/cripto-vue.git)
+- 🧭 [Portafolio en GitHub Pages](https://odettegallo.github.io/)
 
 ---
 
